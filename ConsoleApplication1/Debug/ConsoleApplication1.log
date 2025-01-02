@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\pc\Desktop\Hanhwa Project\CSCAM_API\HX API_CH_2023-06-23\ConsoleApplication1_vs2019\ConsoleApplication1\ConsoleApplication1.cpp(75,33): warning C4244: '=': conversion from 'Double' to 'float', possible loss of data
+C:\Users\pc\Desktop\Hanhwa Project\CSCAM_API\HX API_CH_2023-06-23\ConsoleApplication1_vs2019\ConsoleApplication1\ConsoleApplication1.cpp(85,41): warning C4244: '=': conversion from 'Double' to 'float', possible loss of data
+C:\Users\pc\Desktop\Hanhwa Project\CSCAM_API\HX API_CH_2023-06-23\ConsoleApplication1_vs2019\ConsoleApplication1\ConsoleApplication1.cpp(105,41): warning C4244: '=': conversion from 'Double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\pc\Desktop\Hanhwa Project\CSCAM_API\HX API_CH_2023-06-23\ConsoleApplication1_vs2019\Debug\ConsoleApplication1.exe
